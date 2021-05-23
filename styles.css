@@ -130,7 +130,7 @@
 #text{
     position: absolute;
     width: 60%;
-    height: 100%;
+    min-height: 100vh;
     top: 5rem;
     left: 3rem;
     text-align: left;
