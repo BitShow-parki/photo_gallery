@@ -130,6 +130,7 @@
 #text{
     position: absolute;
     width: 60%;
+    height:auto;
     min-height: 80vh;
     top: 5rem;
     left: 3rem;
